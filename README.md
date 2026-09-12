@@ -22,18 +22,6 @@ A secured RESTful CRUD API built with **Django REST Framework**, managing **Empl
 - **Database:** MySQL
 - **Config management:** python-decouple (`.env` file)
 
-## 📁 Project Structure
-
-```
-Project 2/
-├── Project/
-│   └── api/              # Main app: models, serializers, views, urls
-├── Project_1/             # Django project config (settings, asgi, wsgi, urls)
-├── manage.py
-├── requirements.txt
-└── .env                   # Local environment variables (not committed)
-```
-
 ## ⚙️ Getting Started
 
 ### 1. Clone the repository
